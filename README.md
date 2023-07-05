@@ -1,7 +1,7 @@
 - Hi, I’m Daniel Surla, and my handle is @leinadalrus!
 - I generally just write whatever I fancy, but its mostly audio programming stuff because its fun, and I'm a-bit-of-an-audiophile.
 
-Well o well, I guess... I’m interested in ... Event...Data...-Driven programming as well as Systems Deployment Operations, or just DevOps in general.
+Well o well, I guess I’m interested in Data Driven & Data Oriented programming as well as Systems Deployment Operations, or just DevOps in general.
 - I’m currently learning Vue.js, Ruby and C/C++ because I like how these languages can handle AWS, Docker and Kubernetes.
         And the agnostic nature of C/C++ helps me understand programming conventions and principles better. 
 - I’m looking to collaborate on projects that are n00b-friendly, new and starting-up/out, or just good old maintenance.
