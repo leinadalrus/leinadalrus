@@ -2,7 +2,7 @@
 
 Well o well, I guess I’m interested in programming websites...full-stack!
 
-Contact: How to reach me ... just hit me up on sansanodaniels@gmail.com, I tend to check my emails every two days or so.
+Contact: How to reach me ... just hit me up on daniel.david.surla@gmail.com, I tend to check my emails every two days or so.
 
 P.S
   Thanks for reading this!
