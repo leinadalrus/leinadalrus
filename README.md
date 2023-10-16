@@ -1,4 +1,4 @@
-- Hi, I’m Daniel Surla, and my handle is @leinadalrus!
+> Hi, I’m Daniel Surla, and my handle is @leinadalrus!
 
 Well o well, I guess I’m interested in programming websites...full-stack!
 
