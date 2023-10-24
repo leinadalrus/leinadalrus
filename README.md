@@ -32,6 +32,8 @@ And if you wanna know:
 - `brunch-buns` a fork of `brunch/brunch`
 - `breakfast` C/C++ Emscripten source code for `leinadalrus/brunch-buns`
 
+<br>
+
 In general, most of my projects are:
 
 1. developed together
@@ -39,6 +41,8 @@ In general, most of my projects are:
 3. testing with Chromium Dev-tools and JUnit 4
 4. and Kotlin
 5. (preferably over Java due to composition over inheritance)
+
+<br>
 
 Contact: How to reach me ... just hit me up on daniel.david.surla@gmail.com, I tend to check my emails every two days or so.
 
