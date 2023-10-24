@@ -46,7 +46,7 @@ In general, most of my projects are:
 
 Contact: How to reach me ... just hit me up on daniel.david.surla@gmail.com, I tend to check my emails every two days or so.
 
-![Alt text](images/daniel02.jpg)
+![Alt text](images/daniel01.jpg)
 
 *P.S*
   *Thanks for reading this!*
