@@ -16,9 +16,10 @@ And if you wanna know:
 In general, most of my projects are:
 
 1. developed together
-2. since I base my suggestions through my Lighthouse testing
-3. employed with Chromium Dev-tools.
-
+2. since I base my suggestions through my Lighthouse
+3. testing with Chromium Dev-tools and JUnit 4
+4. and Kotlin
+5. (preferably over Java due to composition over inheritance)
 
 Contact: How to reach me ... just hit me up on daniel.david.surla@gmail.com, I tend to check my emails every two days or so.
 
