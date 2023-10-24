@@ -6,15 +6,24 @@ I wanted to make giant robots, but I settled with programming 'em instead after 
 
 And if you wanna know: 
 
-- Raven's Next is a project of mine where I try to develop a Real Robot garage builder app, and
-- Genobee is the WebGL2 backend code for the 3D garage component for `leinadalrus/ravens-next`.
-- Brunch-Buns: a fork of `brunch/brunch`
-- Breakfast: C/C++ Emscripten source code for `leinadalrus/brunch-buns`
+- `ravens-next` is a project of mine where I try to develop a Real Robot garage builder app, and
+- `genobee` is the WebGL2 backend code for the 3D garage component for `leinadalrus/ravens-next`.
+- `branch` is the actual Angular project repository for `ravens-next`
+- `jash` is the React project remake of `ravens-next`
+- `brunch-buns` a fork of `brunch/brunch`
+- `breakfast` C/C++ Emscripten source code for `leinadalrus/brunch-buns`
+
+In general, most of my projects are:
+
+1. developed together
+2. since I base my suggestions through my Lighthouse testing
+3. employed with Chromium Dev-tools.
+
 
 Contact: How to reach me ... just hit me up on daniel.david.surla@gmail.com, I tend to check my emails every two days or so.
 
-P.S
-  Thanks for reading this!
+*P.S*
+  *Thanks for reading this!*
 <!---
 leinadalrus/leinadalrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
