@@ -6,14 +6,26 @@ I wanted to make giant robots, but I settled with programming 'em instead after 
 
 And if you wanna know: 
 
+#### Full-stack:
+
+<br>
+
 - `ravens-next` is a project of mine where I try to develop a Real Robot garage builder app, and
 - `genobee` is the WebGL2 backend code for the 3D garage component for `leinadalrus/ravens-next`.
+
+<br>
+
+#### Front-end
 
 <br>
 
 - `branch` is the actual Angular project repository for `ravens-next`
 - `susanoo` is the Spring Boot Framework back-end for `branch`
 - `jash` is the React project remake of `ravens-next`
+
+<br>
+
+#### Back-end
 
 <br>
 
