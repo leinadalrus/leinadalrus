@@ -19,9 +19,8 @@ And if you wanna know:
 
 <br>
 
-- `branch` is the actual Angular project repository for `ravens-next`
+- `branch` is the React project remake of `ravens-next`
 - `susanoo` is the Spring Boot Framework back-end for `branch`
-- `jash` is the React project remake of `ravens-next`
 
 <br>
 
@@ -29,8 +28,7 @@ And if you wanna know:
 
 <br>
 
-- `brunch-buns` a fork of `brunch/brunch`
-- `breakfast` C/C++ Emscripten source code for `leinadalrus/brunch-buns`
+- `brunch-buns` a fork of `brunch/brunch` employing C/C++ Emscripten
 
 <br>
 
