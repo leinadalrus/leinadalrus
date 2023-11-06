@@ -20,7 +20,7 @@ And if you wanna know:
 <br>
 
 - `branch` is the React project remake of `ravens-next`
-- `susanoo` is the Spring Boot Framework back-end for `branch`
+- `iakchos` is the Spring Boot Framework back-end for `branch`
 
 <br>
 
