@@ -10,8 +10,8 @@ And if you wanna know:
 
 <br>
 
-- `ravens-next` is a project of mine where I try to develop a Real Robot garage builder app, and
-- `genobee` is the WebGL2 backend code for the 3D garage component for `leinadalrus/ravens-next`.
+- `branch` is a project of mine where I try to develop a Real Robot garage builder app, and
+- `iakchos` is the Spring Boot Framework back-end for `branch`
 
 <br>
 
@@ -19,8 +19,8 @@ And if you wanna know:
 
 <br>
 
-- `branch` is the React project remake of `ravens-next`
-- `iakchos` is the Spring Boot Framework back-end for `branch`
+- `gepardy` is a webby RPC build automation system based on `brunch/brunch`
+- `brunch-buns` a fork of `brunch/brunch` complemented by `leinadalrus/gepardy`
 
 <br>
 
@@ -28,7 +28,7 @@ And if you wanna know:
 
 <br>
 
-- `brunch-buns` a fork of `brunch/brunch` employing C/C++ Emscripten
+- `genobee` is the WebGL2 backend code for the 3D garage component for `leinadalrus/ravens-next`.
 
 <br>
 
