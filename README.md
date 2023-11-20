@@ -15,20 +15,12 @@ And if you wanna know:
 
 <br>
 
-#### Front-end
+#### Back-end
 
 <br>
 
 - `gepardy` is a webby RPC build automation system based on `brunch/brunch`
 - `brunch-buns` a fork of `brunch/brunch` complemented by `leinadalrus/gepardy`
-
-<br>
-
-#### Back-end
-
-<br>
-
-- `genobee` is the WebGL2 backend code for the 3D garage component for `leinadalrus/ravens-next`.
 
 <br>
 
