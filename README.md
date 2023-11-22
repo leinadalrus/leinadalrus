@@ -11,7 +11,7 @@ And if you wanna know:
 <br>
 
 - `branch` is a project of mine where I try to develop a Real Robot garage builder app, and
-- `suu` is the Spring Boot Framework back-end for `branch`
+- `conchord` is the React.js and Asp.NET full-stack counterparts for `branch`
 
 <br>
 
