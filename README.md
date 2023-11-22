@@ -28,9 +28,7 @@ In general, most of my projects are:
 
 1. developed together
 2. since I base my suggestions through my Lighthouse
-3. testing with Chromium Dev-tools and JUnit 4
-4. and Kotlin
-5. (preferably over Java due to composition over inheritance)
+3. testing with Chromium Dev-tools and JUnit 5 and Playwright
 
 <br>
 
