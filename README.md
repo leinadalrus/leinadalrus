@@ -11,7 +11,7 @@ And if you wanna know:
 <br>
 
 - `branch` is a project of mine where I try to develop a Real Robot garage builder app, and
-- `nervez` is the React.js and Spring Framework back-end for `branch`
+- `nerve-conchord` is the React.js and Spring Framework back-end for `branch`
 
 <br>
 
@@ -20,7 +20,6 @@ And if you wanna know:
 <br>
 
 - `gepardy` is a webby RPC build automation system based on `brunch/brunch`
-- `brunch-buns` a fork of `brunch/brunch` complemented by `leinadalrus/gepardy`
 
 <br>
 
