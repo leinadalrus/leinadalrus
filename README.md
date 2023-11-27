@@ -19,7 +19,7 @@ And if you wanna know:
 
 <br>
 
-- `gepardy` is a webby RPC build automation system based on `brunch/brunch`
+- `genobee` is an experimental Web Assembly (WASM) project.
 
 <br>
 
