@@ -11,7 +11,8 @@ And if you wanna know:
 <br>
 
 - `branch` is a project of mine where I try to develop a Real Robot garage builder app, and
-- `conchord` is the React.js and Spring Framework back-end for `branch`
+- `balena` is my personal rendition of the `mastiff-press/compcon` Vue.js web-app
+- `conchord` is the React.js and Spring Framework back-end for `branch` and `balena`
 
 <br>
 
