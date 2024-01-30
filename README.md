@@ -16,11 +16,11 @@ And if you wanna know:
 
 <br>
 
-#### Back-end
+#### General Purpose
 
 <br>
 
-- `genobee` is an experimental Web Assembly (WASM) project.
+- `pale-noel` is an experimental naval warfare/war-gaming project
 
 <br>
 
