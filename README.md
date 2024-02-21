@@ -10,9 +10,7 @@ And if you wanna know:
 
 <br>
 
-- `branch` is a project of mine where I try to develop a Real Robot garage builder app, and
-- `balena` is my personal rendition of the `mastiff-press/compcon` Vue.js web-app
-- `conchord` is the React.js and Spring Framework back-end for `branch` and `balena`
+- `conchord` is the Vue (Vite) and Spring Framework back-end
 
 <br>
 
@@ -20,7 +18,7 @@ And if you wanna know:
 
 <br>
 
-- `pale-noel` is an experimental naval warfare/war-gaming project
+- `navis` is an experimental naval warfare/war-gaming project
 
 <br>
 
