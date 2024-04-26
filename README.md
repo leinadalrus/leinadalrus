@@ -11,7 +11,7 @@ And if you wanna know:
 <br>
 
 - `Astrale` - the .Net C# recreation of Conchord for TTRPGs - ASP.Net Core MVC project with Vue 3 and TypeScript 
-- `Conchord` is the Vue (Vite) and Spring Framework back-end
+- `Conchord` is the Vue (and an Angular16 \[signal preview]) and Spring Framework back-end
 
 <br>
 
@@ -20,14 +20,6 @@ And if you wanna know:
 <br>
 
 - `Navis` is an experimental naval warfare/war-gaming project
-
-<br>
-
-In general, most of my projects are:
-
-1. developed together
-2. since I base my suggestions through my Lighthouse
-3. testing with Chromium Dev-tools after (JUnit or XUnit) with Playwright
 
 <br>
 
