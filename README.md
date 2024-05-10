@@ -10,7 +10,7 @@ And if you wanna know:
 
 <br>
 
-- `Astrale` - the .Net C# recreation of Conchord for TTRPGs - ASP.Net Core MVC project with Vue 3 and TypeScript 
+- `conchord-ng` - the Angular \[16] front-end of Conchord
 - `Conchord` is the Vue (and an Angular16 \[signal preview]) and Spring Framework back-end
 
 <br>
@@ -19,7 +19,7 @@ And if you wanna know:
 
 <br>
 
-- `Navis` is an experimental naval warfare/war-gaming project
+- `Annalise` is an experimental naval warfare card-game simulating a multiplayer network
 
 <br>
 
