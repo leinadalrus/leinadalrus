@@ -10,16 +10,21 @@ And if you wanna know:
 
 <br>
 
-- `conchord-ng` - the Angular \[16] front-end of Conchord
-- `Conchord` is the Vue (and an Angular16 \[signal preview]) and Spring Framework back-end
+- `Concord Canopy` - Angular 18 with Asp.NET MVC.
 
 <br>
 
-#### General Purpose
+#### Software Development
 
 <br>
 
-- `Annalise` is an experimental naval warfare card-game simulating a multiplayer network
+- `Mirage Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool.
+
+<br>
+
+#### Game Development
+
+- `Princess Phever Avenue` - GMTK Game Jam 2024 racing video game project.
 
 <br>
 
