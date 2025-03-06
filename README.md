@@ -10,7 +10,7 @@ And if you wanna know:
 
 <br>
 
-- `Concord Canopy` - Angular 18 with Asp.NET MVC.
+- `QBao` - Spring Boot and Angular 19.
 
 <br>
 
