@@ -10,7 +10,8 @@ And if you wanna know:
 
 <br>
 
-- `QBao` - Spring Boot and Angular 19.
+- `QBao` - Spring Boot and Angular 19
+- `Concord Canopy` - ASP .Net MVC and Angular 18
 
 <br>
 
@@ -18,13 +19,14 @@ And if you wanna know:
 
 <br>
 
-- `Mirage Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool.
+- `Mirage Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
 
 <br>
 
 #### Game Development
 
-- `Princess Phever Avenue` - GMTK Game Jam 2024 racing video game project.
+- `Sunflower` - Personal Car RPG game made in LWJGL3 (Java 8 with C/C++)
+- `Princess Phever Avenue` - GMTK Game Jam 2024 racing video game project
 
 <br>
 
