@@ -10,7 +10,7 @@ And if you wanna know:
 
 <br>
 
-- `QBao` - Spring Boot and Angular 19
+- `Ccubbao` - Spring Boot and Angular 19
 - `Concord Canopy` - ASP .Net MVC and Angular 18
 
 <br>
@@ -20,6 +20,7 @@ And if you wanna know:
 <br>
 
 - `Mirage Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
+- `BeyDex` is an mobile app for Beyblade as a database.
 
 <br>
 
