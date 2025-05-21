@@ -10,8 +10,8 @@ And if you wanna know:
 
 <br>
 
-- `Ccubbao` - Spring Boot and Angular 19
-- `Concord Canopy` - ASP .Net MVC and Angular 18
+- `transpoint` Spring Boot and Vue web-app in tandem with `beydex`
+- `levelate` Remix web-app written alongside `gearflat`
 
 <br>
 
@@ -19,15 +19,15 @@ And if you wanna know:
 
 <br>
 
-- `Mirage Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
-- `BeyDex` is an mobile app for Beyblade as a database.
+- `Mirage-Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
+- `beydex` is an mobile app for Beyblade as a database
+- `gearflat` product items, parts and bits mobile app
 
 <br>
 
 #### Game Development
 
-- `Sunflower` - Personal Car RPG game made in LWJGL3 (Java 8 with C/C++)
-- `Princess Phever Avenue` - GMTK Game Jam 2024 racing video game project
+- `bhundredbattler` - Personal Car RPG game made in Raylib and Zig (with C++)
 
 <br>
 
