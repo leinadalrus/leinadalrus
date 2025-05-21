@@ -1,6 +1,6 @@
-> Hi, I’m Daniel Surla, and my handle is @leinadalrus!
+# Hi, I'm _leinadalrus_!
 
-Well o well, I guess I’m interested in programming websites...full-stack!
+Well o well, I guess I’m interested in programming web-apps, apps, and game apps!
 
 I wanted to make giant robots, but I settled with programming 'em instead after watching Gundam Destiny as a kid.
 
