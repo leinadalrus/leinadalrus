@@ -27,6 +27,7 @@ And if you wanna know:
 
 #### Game Development
 
+- `spunbacc` - Ray Tracer Challenge project for creating a Ray Tracer software for game development
 - `bhundredbattler` - Personal Car RPG game made in Raylib and Zig (with C++)
 
 <br>
