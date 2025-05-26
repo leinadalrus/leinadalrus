@@ -11,7 +11,7 @@ And if you wanna know:
 <br>
 
 - `transpoint` Spring Boot and Vue web-app in tandem with `beydex`
-- `levelate` Remix web-app written alongside `gearflat`
+- `levelate` a Remix web-app
 
 <br>
 
@@ -21,14 +21,12 @@ And if you wanna know:
 
 - `Mirage-Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
 - `beydex` is an mobile app for Beyblade as a database
-- `gearflat` product items, parts and bits mobile app
 
 <br>
 
 #### Game Development
 
 - `spunbacc` - Ray Tracer Challenge project for creating a Ray Tracer software for game development
-- `bhundredbattler` - Personal Car RPG game made in Raylib and Zig (with C++)
 
 <br>
 
