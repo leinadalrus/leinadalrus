@@ -10,8 +10,9 @@ And if you wanna know:
 
 <br>
 
-- `transpoint` Spring Boot and Vue web-app in tandem with `beydex`
-- `levelate` a Remix web-app
+- `transpoint` Spring Boot and Vue web-app in tandem with `gearflat`
+- `gearflat` Small-scale web-app project for practicing Vue3 with TypeScript. Developing a web-app for my hobby paraphernalia.
+- `levelate` a Remix \[TypeScript-React] based web-app for harbouring data for my recreational use and obsession with rotating objects that go at high speeds!
 
 <br>
 
@@ -20,7 +21,7 @@ And if you wanna know:
 <br>
 
 - `Mirage-Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
-- `beydex` is an mobile app for Beyblade as a database
+- `rubberaccel` the mobile-app variant of `gearflat`/`levelate`
 
 <br>
 
