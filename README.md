@@ -21,7 +21,7 @@ And if you wanna know:
 <br>
 
 - `Mirage-Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
-- `rubberaccel` the mobile-app variant of `gearflat`/`levelate`
+- `rubberaccel` the mobile-app variant of `gearflat`/`gear-pont`
 
 <br>
 
