@@ -10,9 +10,9 @@ And if you wanna know:
 
 <br>
 
-- `transpoint` Spring Boot and Vue web-app in tandem with `gearflat`
+- `transpoint` Spring Boot and Vue web-app in tandem formerly with `gearflat` but now used with `gear-pont`
+- `gear-pont` a Vue and Node.js based web-app for harbouring data for my recreational use and obsession with rotating objects that go at high speeds!
 - `gearflat` Small-scale web-app project for practicing Vue3 with TypeScript. Developing a web-app for my hobby paraphernalia.
-- `levelate` a Remix \[TypeScript-React] based web-app for harbouring data for my recreational use and obsession with rotating objects that go at high speeds!
 
 <br>
 
