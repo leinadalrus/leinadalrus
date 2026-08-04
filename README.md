@@ -1,18 +1,18 @@
 # Hi, I'm _leinadalrus_!
 
-Well o well, I guess I’m interested in programming web-apps, apps, and game apps!
+Well o well, I guess I’m interested in programming web apps, toolings, and video games!
 
-I wanted to make giant robots, but I settled with programming 'em instead after watching Gundam Destiny as a kid.
+I became a programmer because I wanted to make giant robots, but I settled with programming them instead after watching Gundam Destiny as a kid.
+I was also supposed to become a Chemical Engineer like my mother ... but programming gives me more time for fun and self-development!
 
-And if you wanna know: 
+And if you wanna know what project I've been doing or have done:
 
 #### Full-stack:
 
 <br>
 
-- `transpoint` Spring Boot and Vue web-app in tandem formerly with `gearflat` but now used with `gear-pont`
-- `gear-pont` a Vue and Node.js based web-app for harbouring data for my recreational use and obsession with rotating objects that go at high speeds!
-- `gearflat` Small-scale web-app project for practicing Vue3 with TypeScript. Developing a web-app for my hobby paraphernalia.
+- Proprietary and Internal Systems projects of Maytronics Australia, (_cannot disclose ..._)
+- `Magnolia` - SvelteKit demo website for Inventory Management and Customer Relationship Systems
 
 <br>
 
@@ -20,14 +20,9 @@ And if you wanna know:
 
 <br>
 
-- `Mirage-Works` is an experimental ECU/TCU embedded software diagnostics, logging and manager tool
-- `rubberaccel` the mobile-app variant of `gearflat`/`gear-pont`
-
-<br>
-
-#### Game Development
-
-- `spunbacc` - Ray Tracer Challenge project for creating a Ray Tracer software for game development
+- `Spunback` - Tamiya Mini4WD, small-scale video game written in Zig
+- `Forzenperor` - alternatively written Tamiya Mini4WD, small-scale video game written in Odin
+- `Cadantauri` - Small-scale audio editor, written in Zig (to-be translated to Odin)
 
 <br>
 
@@ -37,6 +32,7 @@ Contact: How to reach me ... just hit me up on daniel.david.surla@gmail.com, I t
 
 *P.S*
   *Thanks for reading this!*
+
 <!---
 leinadalrus/leinadalrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
