@@ -3,7 +3,7 @@
 Well o well, I guess I’m interested in programming web apps, toolings, and video games!
 
 I became a programmer because I wanted to make giant robots, but I settled with programming them instead after watching Gundam Destiny as a kid.
-I was also supposed to become a Chemical Engineer like my mother ... but programming gives me more time for fun and self-development!
+I was also supposed to become a Chemical Engineer like my mother ... but programming gives me more time for fun and self-development.
 
 And if you wanna know what project I've been doing or have done:
 
@@ -20,9 +20,8 @@ And if you wanna know what project I've been doing or have done:
 
 <br>
 
-- `Spunback` - Tamiya Mini4WD, small-scale video game written in Zig
-- `Forzenperor` - alternatively written Tamiya Mini4WD, small-scale video game written in Odin
-- `Cadantauri` - Small-scale audio editor, written in Zig (to-be translated to Odin)
+- `Forzenperor` - Tamiya Mini4WD, small-scale video game written in Odin
+- `Cadantauri` - Small-scale audio editor, written in C3
 
 <br>
 
