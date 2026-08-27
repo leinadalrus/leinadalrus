@@ -20,8 +20,8 @@ And if you wanna know what project I've been doing or have done:
 
 <br>
 
-- `Forzenperor` - Tamiya Mini4WD, small-scale video game written in Odin
-- `Cadantauri` - Small-scale audio editor, written in C3
+- `forzenperor` - Tamiya Mini4WD, small-scale video game written in Odin
+- `alcunaluna` - Small and basic Tracker DAW, written in Odin
 
 <br>
 
@@ -30,7 +30,7 @@ Contact: How to reach me ... just hit me up on daniel.david.surla@gmail.com, I t
 ![Alt text](images/daniel03.jpg)
 
 *P.S*
-  *Thanks for reading this!*
+*Thanks for reading this!*
 
 <!---
 leinadalrus/leinadalrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
