@@ -1,4 +1,4 @@
-# Hi, I'm _leinadalrus_!
+# Hi, I'm _Daniel Surla_!
 
 Well o well, I guess I’m interested in programming web apps, toolings, and video games!
 
@@ -20,8 +20,8 @@ And if you wanna know what project I've been doing or have done:
 
 <br>
 
-- `forzenperor` - Tamiya Mini4WD, small-scale video game written in Odin
-- `alcunaluna` - Small and basic Tracker DAW, written in Odin
+- `glint` - Tamiya Mini4WD, small-scale video game written in Rust
+- `arcadian` - Small and basic Tracker DAW, written in Rust
 
 <br>
 
